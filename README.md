@@ -18,4 +18,4 @@
 
 ![result.bmp](README%20md%2017fd368450de40058a9791c3d1b2b673/result.bmp)
 
-![스크린샷 2021-09-28 오후 6.13.39.png](README%20md%2017fd368450de40058a9791c3d1b2b673/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2021-09-28_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_6.13.39.png)
+<img width="255" alt="스크린샷_2021-09-28_오후_6 13 39" src="https://user-images.githubusercontent.com/75241500/135060961-7f11b408-5ff3-4688-b9b6-54af35cf5121.png">
