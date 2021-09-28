@@ -1,5 +1,4 @@
 # merge_bmp_images
----
 
 ## 1. 개요
 
@@ -15,7 +14,5 @@
 ## 3. 결과
 
 파일 종류가 BMP이고 크기는 입력 이미지의 4배입니다. 또한 규격도 800 x 600으로써 성공적으로 병합했다는 것을 볼 수 있습니다.
-
-![result.bmp](README%20md%2017fd368450de40058a9791c3d1b2b673/result.bmp)
 
 <img width="255" alt="스크린샷_2021-09-28_오후_6 13 39" src="https://user-images.githubusercontent.com/75241500/135060961-7f11b408-5ff3-4688-b9b6-54af35cf5121.png">
